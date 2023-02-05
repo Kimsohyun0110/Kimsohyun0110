@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I’m currently majoring in computer science and engineering in POSTECH 👩🏻‍💻💜
 
 <!--
 **Kimsohyun0110/Kimsohyun0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
