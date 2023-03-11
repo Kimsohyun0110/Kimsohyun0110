@@ -2,9 +2,9 @@
 ### I’m currently majoring in computer science and engineering in POSTECH 
 
 # Education
-2018-2020 Hansung Science HighSchool
-2021 POSTECH 무은재학부 입학
-2022-2024 Bachelor of Computer Science and Engineering 
+<br/>2018-2020 Hansung Science HighSchool
+<br/>2021 POSTECH 무은재학부 입학
+<br/>2022-2024 Bachelor of Computer Science and Engineering 
 
 <!--
 **Kimsohyun0110/Kimsohyun0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
