@@ -1,4 +1,4 @@
-# About ME 👀
+## About ME 👀
 ### I’m currently majoring in computer science and engineering in POSTECH 
 
 # Education
@@ -6,17 +6,8 @@
 <br/>2021 POSTECH 무은재학부 입학
 <br/>2022-2024 Bachelor of Computer Science and Engineering 
 
-<!--
-**Kimsohyun0110/Kimsohyun0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Scholarship
+<br/> 2022 Global Leadership Program in POSTECH CSE
+<br/> 2023 Global Leadership Program in POSTECH CSE
+<br/> https://cse.postech.ac.kr/global-leadership-programglp-%ec%9e%a5%ed%95%99%ec%a6%9d%ec%84%9c-%ec%a0%84%eb%8b%ac-6/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
